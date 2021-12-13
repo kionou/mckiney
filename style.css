@@ -1,0 +1,42 @@
+/* GENERAL */
+
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.wrapper{
+    width: 940;
+    margin: 0 auto;
+    padding: 0 10px;
+
+}
+h3{
+    margin-top: 20px;
+}
+
+/* HEADER */
+
+
+
+header{
+    margin: 0 auto;
+    padding: 0;  
+}
+
+header nav{
+    margin: 0 auto;
+    padding: 0;
+    float: right;   
+}
+
+header nav ul li{
+     display: inline;
+     float: left;   
+     width: 160px;
+     margin-bottom: 200px;
+}
+header nav ul li a{
+     text-decoration: none;
+
+     
+}
